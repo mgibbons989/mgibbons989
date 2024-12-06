@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mgibbons989
-- 👀 I’m interested in software engineering and AI!
-- 🌱 I’m currently learning Python and JavaScript and I already have experience with Java.
-- 💞️ I’m looking to collaborate on various coding projects at and higher than my current level to gain more experience.
-- 📫 How to reach me: My email is mgibbons989@gmail.com
+- 👋 Hello! I'm Madison Gibbons
+- 👀 I’m interested in everything tech! I love to learn and I'm working on building my tech knowledge.
+- 🌱 I’m currently learning more about databases and web programming, which is a field I'm really interested in.
+- 📫 You can reach me at mgibbons989@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I started basic coding concepts way back in the 10th grade!
 
